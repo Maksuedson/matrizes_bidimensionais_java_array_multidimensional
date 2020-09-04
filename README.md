@@ -5,5 +5,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/Maksuedson/matrizes_bidimensionais_java/blob/master/pdf/Arreios.png" width="1500" alt="accessibility text">
+  <img src="https://github.com/Maksuedson/matrizes_bidimensionais_java/blob/master/pdf/Arreios.png">
 </p>
